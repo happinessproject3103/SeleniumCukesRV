@@ -10,9 +10,9 @@ This project aims to test Parabank UI using automation test framework that uses 
 ---
 ## Important Note
 I have noticed that the user i created is being reset every day but default user john and demo still work
-Parabank website has been throwing Internal server exceptions randomly
-so I have found this link useful which is a replicate of parabank website 
+Parabank website has been throwing Internal server exceptions randomly so I have found this link useful which is a replicate of parabank website 
 https://parabank.parasoft.com/parabank/index.htm
+
 https://para.testar.org/
 I have also asked the question in parasoft forums and got this reply
 
