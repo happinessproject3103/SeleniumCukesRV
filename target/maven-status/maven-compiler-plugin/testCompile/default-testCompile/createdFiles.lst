@@ -1,0 +1,6 @@
+StepDefinitions\NewAccountSteps.class
+StepDefinitions\Hooks.class
+StepDefinitions\BillPaySteps.class
+Runners\CucumberRunner.class
+StepDefinitions\RegisterSteps.class
+StepDefinitions\LoginSteps.class
